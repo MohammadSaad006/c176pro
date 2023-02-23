@@ -1,0 +1,8 @@
+body {
+    background-image: url('./assets/background.png');
+    font-family:'pangolin',cursive;
+}
+#hint{
+    font-size: 2em;
+    line-height: 2em;
+}
